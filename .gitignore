@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.virtual_documents
+__pycache__
+Flickr8k
+CLIPModel.pt
+CLIPModelDict.pt
